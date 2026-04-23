@@ -1,8 +1,7 @@
 import 'dart:convert';
 
+import 'package:custom_address/features/nepal_admin/model/nepal_administrative_hierarchy.dart';
 import 'package:flutter/services.dart';
-
-import '../model/nepal_administrative_hierarchy.dart';
 
 abstract class NepalAdministrativeRepository {
   Future<NepalAdministrativeHierarchy> loadHierarchy();

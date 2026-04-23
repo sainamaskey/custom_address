@@ -1,6 +1,6 @@
-import 'package:custom_address/src/app.dart';
-import 'package:custom_address/src/features/nepal_admin/data/nepal_administrative_repository.dart';
-import 'package:custom_address/src/features/nepal_admin/model/nepal_administrative_hierarchy.dart';
+import 'package:custom_address/app.dart';
+import 'package:custom_address/features/nepal_admin/data/nepal_administrative_repository.dart';
+import 'package:custom_address/features/nepal_admin/model/nepal_administrative_hierarchy.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
